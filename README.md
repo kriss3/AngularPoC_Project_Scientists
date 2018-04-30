@@ -25,3 +25,20 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## Comments
+Krzysztof Szczurowski - PoC Project on Request.
+For data look@: http://peoplecollectionapi.azurewebsites.net/
+
+[getAll]
+http://peoplecollectionapi.azurewebsites.net/api/people
+
+[getById]
+http://peoplecollectionapi.azurewebsites.net/api/people/<personId>
+
+[put]
+http://peoplecollectionapi.azurewebsites.net/people 
+(use postman to push data into the library)
+
+[delete]
+http://peoplecollectionapi.azurewebsites.net/people/<personId>
