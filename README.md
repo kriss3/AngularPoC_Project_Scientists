@@ -34,11 +34,11 @@ For data look@: http://peoplecollectionapi.azurewebsites.net/
 http://peoplecollectionapi.azurewebsites.net/api/people
 
 [getById]
-http://peoplecollectionapi.azurewebsites.net/api/people/<personId>
+http://peoplecollectionapi.azurewebsites.net/api/people/[personId]
 
 [put]
 http://peoplecollectionapi.azurewebsites.net/people 
 (use postman to push data into the library)
 
 [delete]
-http://peoplecollectionapi.azurewebsites.net/people/<personId>
+http://peoplecollectionapi.azurewebsites.net/people/[personId]
